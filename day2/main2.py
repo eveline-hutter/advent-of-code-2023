@@ -24,7 +24,7 @@ for game in games:
     powers += max_drawn_red * max_drawn_green * max_drawn_blue
 
 # puzzle 1:
-print(possible_games)
+print('no of possible games:', possible_games)
 
 # puzzle 2:
-print(powers)
+print('sum of powers:', powers)
